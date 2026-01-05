@@ -1,0 +1,8 @@
+Strategy,Accuracy
+Sparse Fine-Tuning,0.9314814805984497
+Fine-Tuning (Last 30 layers),0.9074074029922485
+Feature Extraction + SVM_RBF,0.40185185185185185
+Stochastic Fine-Tuning,0.31111112236976624
+Feature Extraction + Random_Forest,0.30185185185185187
+Feature Extraction + MLP,0.2518518518518518
+Feature Extraction + SVM_Linear,0.2111111111111111
